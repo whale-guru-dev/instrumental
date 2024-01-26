@@ -1,0 +1,2 @@
+export { TokenMetadataUpdater } from "./TokenMetadataUpdater"
+export type { PrivateTokenMetadataUpdaterProps, PublicTokenMetadataUpdaterProps, TokenMetadata, TokenMetadataUpdaterProps } from "./TokenMetadataUpdater"

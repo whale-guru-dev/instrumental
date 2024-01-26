@@ -1,0 +1,2 @@
+export { TokenPricesUpdater } from "./TokenPricesUpdater"
+export type { PrivateTokenPricesUpdaterProps, PublicTokenPricesUpdaterProps, TokenPrices, TokenPricesUpdaterProps } from "./TokenPricesUpdater"

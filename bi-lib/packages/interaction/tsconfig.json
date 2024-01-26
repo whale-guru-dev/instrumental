@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig",
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "baseUrl": ".",
+    "noEmit": false,
+    "outDir": "dist",
+    "rootDir": "src",
+    "jsx": "react", 
+    "module": "ESNext",  
+    "declarationDir": "dist",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+  },
+  "exclude": ["dist"]
+}

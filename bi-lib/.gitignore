@@ -1,0 +1,13 @@
+.next
+.npmrc
+node_modules
+dist
+.vscode
+.env
+node_modules/
+packages/*/dist/
+packages/example/.next/
+.env.local
+yarn.lock
+yarn-error.log
+lerna-debug.log

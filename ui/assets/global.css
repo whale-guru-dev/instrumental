@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BIN Outline';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BIN Outline'), url('/fonts/BINOutline-Regular.otf') format('woff');
+}
+
+@font-face {
+    font-family: 'BIN Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BIN Regular'), url('/fonts/BINRegular-Regular.otf') format('woff');
+}
+
+@font-face {
+    font-family: 'BIN Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BIN Bold'), url('/fonts/BINBold-Regular.otf') format('woff');
+}

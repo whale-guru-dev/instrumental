@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------
+SushiSlpStrategy : 0x6F166487A247d66EC4d8ADfCD4C89512B5AA9d6E
+
+Arg [0] : _config (address): 0x656790d01d691073a47f62f1ddfe228852595450
+----------------------------------------------------------------------------
+SushiErc20Strategy : 0xbb834f648916635ef43e668de4b72288fd1ec408
+
+Arg [0] : _config (address): 0x656790d01d691073a47f62f1ddfe228852595450
+----------------------------------------------------------------------------
+SushiSlpConfig : 0x656790D01D691073a47f62F1ddfe228852595450
+
+Arg [0] : _masterChef (address): 0x80c7dd17b01855a6d2347444a0fcc36136a314de
+Arg [1] : _router (address): 0x1b02da8cb0d097eb8d57a175b88c7d8b47997506
+Arg [2] : _pid (uint256): 0
+Arg [3] : _weth (address): 0xc778417e063141139fce010982780140aa0cd5ab
+----------------------------------------------------------------------------
+CurveTricryptoConfig : 0xf347D6fbe364CC48A36C34e8483aA1d39F09F99F
+
+Arg [0] : _lpVault (address): 0x3993d34e7e99abf6b6f367309975d1360222d446
+Arg [1] : _gauge (address): 0xdefd8fdd20e0f34115c7018ccfb655796f6b2168
+Arg [2] : _minter (address): 0xd061d61a4d941c39e5453435b6345dc261c2fce0
+Arg [3] : _i (uint256): 3
+Arg [4] : _weth (address): 0xc778417e063141139fce010982780140aa0cd5ab
+----------------------------------------------------------------------------
+CurveTricryptoStrategy : 0xc9003F00877868c88c6f1326C9fCC6d8c270c4FA
+
+Arg [0] : _config (address): 0xf347d6fbe364cc48a36c34e8483aa1d39f09f99f
+-----------------------------------------------------------------------------

@@ -1,0 +1,3 @@
+[submodule "submodules/contracts-operations"]
+	path = submodules/contracts-operations
+	url = https://github.com/ComposableFi/submodule-ui-mosaic
